@@ -1,0 +1,2 @@
+D:\JAMK\bit-xr-mobile\XR-Topsu-Test\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\JAMK\bit-xr-mobile\XR-Topsu-Test\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
